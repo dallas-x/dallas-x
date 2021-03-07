@@ -14,3 +14,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=k1ddarkn3ss&theme=cobalt)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=k1ddarkn3ss&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=k1ddarkn3ss&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
