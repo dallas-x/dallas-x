@@ -11,8 +11,6 @@
 - 📫 How to reach me: [Gitter](https://gitter.im/k1ddarkn3ss/community)
 - ⚡ Fun fact: I and Harry Potter share the same Birthday! 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=onedark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=cobalt)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=k1ddarkn3ss&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
