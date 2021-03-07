@@ -12,5 +12,5 @@
 - ⚡ Fun fact: I and Harry Potter share the same Birthday! 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1ddarkn3ss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1ddarkn3ss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
