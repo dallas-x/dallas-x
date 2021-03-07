@@ -2,7 +2,7 @@
 <!--
 **k1ddarkn3ss/k1ddarkn3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
-[![banner](https://github.com/k1ddarkn3ss/k1ddarkn3ss/raw/main/assets/Github%20banner-01.png)](https://github.com/k1ddarkn3ss/k1ddarkn3ss/raw/main/assets/Github%20banner-01.png)
+[![banner](https://github.com/k1ddarkn3ss/k1ddarkn3ss/raw/main/assets/Artboard%201.png)](https://github.com/k1ddarkn3ss/k1ddarkn3ss/raw/main/assets/Artboard%201.png)
 
 - 🔭 I’m currently working on a managment system for Poker games.
 - 🌱 I’m currently learning Security within devops.
