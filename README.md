@@ -13,4 +13,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1ddarkn3ss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=k1ddarkn3ss&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
