@@ -15,3 +15,5 @@
 
 
 <img src="https://wakatime.com/share/@42a20919-57a1-43ab-ab07-083bb6a32336/392f4ef3-5651-4cfe-bcb3-987ad0ac83df.svg">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=k1ddarkn3ss&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
