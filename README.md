@@ -27,9 +27,12 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
 ## Stats
-<a href="#>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ddarkn3ss&layout=compact&theme=tokyonight"> </a>
-<a href="#><img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=tokyonight"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=k1ddarkn3ss&layout=compact&theme=tokyonight">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=k1ddarkn3ss&theme=tokyonight" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ddarkn3ss&layout=compact&theme=tokyonight" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=tokyonight" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=k1ddarkn3ss&layout=compact&theme=tokyonight">
+</a>
