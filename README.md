@@ -1,4 +1,4 @@
-<img src="https://github.com/k1ddarkn3ss/k1ddarkn3ss/raw/main/assets/Github%20banner-01.png" title="Home " width="100%">
+<img src="https://github.com/k1ddarkn3ss/k1ddarkn3ss/raw/main/assets/Artboard%201.png" title="Home " width="100%">
 <!--
 **k1ddarkn3ss/k1ddarkn3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
