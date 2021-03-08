@@ -32,9 +32,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=tokyonight" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ddarkn3ss&&theme=tokyonight" />
-</a>
-<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=k1ddarkn3ss&layout=compact&theme=tokyonight">
 </a>
 
