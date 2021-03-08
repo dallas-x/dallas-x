@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning Security within devops.
 - 🚀 I’m looking to collaborate on developing a cyber security tool for threat intel researchers.
 - 🤔 I’m looking for help with research and threat intel.
-- 💬 Ask me about Cyber Security
-- 📫 How to reach me: [Gitter](https://gitter.im/k1ddarkn3ss/community)
+- 💬 Ask me about Cyber Security || ![PerimeterX](https://www.perimeterx.com/favicons/favicon-120-precomposed.png)
 - ⚡ Fun fact: I and Harry Potter share the same Birthday! 
 
 ## Tech Stack
