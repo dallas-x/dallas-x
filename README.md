@@ -39,6 +39,6 @@
 ![Made with love in California](https://madewithlove.now.sh/us?heart=true&template=for-the-badge&text=California)
 ![VisitorCount](https://profile-counter.glitch.me/k1ddarkn3ss/count.svg)
 
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
