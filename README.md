@@ -16,13 +16,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-![Graphql](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 
-![Express JS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 ![REACT](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![BOOTSTRAP](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express JS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 ![NEXT JS](https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+![Graphql](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![RXJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white)
 
 ![GITHUB](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
