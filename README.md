@@ -29,10 +29,10 @@
 ## Stats
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=dark" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=k1ddarkn3ss&layout=compact&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=k1ddarkn3ss&layout=compact&theme=dark">
 </a>
 
 ## [Dallas Baker](https://k1ddarkn3ss.dev/)
