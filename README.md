@@ -2,7 +2,7 @@
 <!--
 **k1ddarkn3ss/k1ddarkn3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
-
+## Hi 👋, I am Dallas! 
 - 🔭 I’m currently working on a managment system for Poker games.
 - 🌱 I’m currently learning Security within devops.
 - 🚀 I’m looking to collaborate on developing a cyber security tool for threat intel researchers.
