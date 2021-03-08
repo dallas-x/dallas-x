@@ -10,6 +10,10 @@
 - ![PerimeterX](https://www.perimeterx.com/favicons/favicon.ico) Ask me about Cyber Security || PerimeterX
 - ⚡ Fun fact: I and Harry Potter share the same Birthday! 
 
+> I spend most of my day wearing multiple hats at PerimeterX.
+> I have a passion for researching, analyzing data, and writing code.
+> I ❤️ 🥾 🏂 🏝 
+
 ## Tech Stack
 
 ### Languages
@@ -48,7 +52,3 @@
 ## [Dallas Baker](https://k1ddarkn3ss.dev/)
 ![Made with love in California](https://madewithlove.now.sh/us?heart=true&template=for-the-badge&text=California)
 ![VisitorCount](https://profile-counter.glitch.me/k1ddarkn3ss/count.svg)
-
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
