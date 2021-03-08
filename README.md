@@ -10,9 +10,8 @@
 - ![PerimeterX](https://www.perimeterx.com/favicons/favicon.ico) Ask me about Cyber Security || PerimeterX
 - ⚡ Fun fact: I and Harry Potter share the same Birthday! 
 
-> I spend most of my day wearing multiple hats at PerimeterX.
-> I have a passion for researching, analyzing data, and writing code.
-> I ❤️ 🥾 🏂 🏝 
+> I spend most of my day wearing multiple hats at PerimeterX and when im not there I am most likely researching, analyzing data, and writing code.
+> When im not working, I ❤️ 🥾 in the ⛰ , 🏂, and going to the 🏝!
 
 ## Tech Stack
 
