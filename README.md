@@ -26,6 +26,9 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Stats
 
 <a href="#">
