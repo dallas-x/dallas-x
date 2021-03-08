@@ -29,7 +29,7 @@
 ## Stats
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ddarkn3ss&show_icons=true&theme=dark" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=k1ddarkn3ss&layout=compact&theme=dark">
