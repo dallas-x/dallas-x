@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a managment system for Poker games.
 - 🌱 I’m currently learning Security within devops.
-- 👯 I’m looking to collaborate on developing a cyber security tool for threat intel researchers.
+- 🚀 I’m looking to collaborate on developing a cyber security tool for threat intel researchers.
 - 🤔 I’m looking for help with research and threat intel.
 - 💬 Ask me about Cyber Security
 - 📫 How to reach me: [Gitter](https://gitter.im/k1ddarkn3ss/community)
