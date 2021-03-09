@@ -3,7 +3,9 @@
 **k1ddarkn3ss/k1ddarkn3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 ## Hi 👋, I am Dallas! 
-> I spend most of my day wearing multiple hats at PerimeterX. When I am not there, I am most likely researching, analyzing data, and writing code. When I am not > working, I ❤️ 🥾 in the ⛰ , 🏂, and going to the 🏝!
+> I spend most of my day wearing multiple hats at PerimeterX. When I am not there, I am most likely researching, analyzing data, and writing code. When I am not working, I ❤️ 🥾 in the ⛰ , 🏂, and going to the 🏝!
+> 
+
 - 🔭 I'm currently working on a management system for Poker games.
 - 🌱 I'm currently learning Security within DevOps.
 - 🚀 I'm looking to collaborate on developing a cybersecurity tool for threat intel researchers.
