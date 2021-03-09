@@ -54,13 +54,13 @@
 
 ## [Dallas Baker](https://k1ddarkn3ss.dev/)
 ![Made with love in California](https://madewithlove.now.sh/us?heart=true&template=for-the-badge&text=California)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/k1ddarkn3ss)
 ![VisitorCount](https://profile-counter.glitch.me/k1ddarkn3ss/count.svg)
 
 ### Social
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dallascbaker)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)]()
 [![Stackoverflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
-[![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/k1ddarkn3ss)
 
 
 ### Skills
