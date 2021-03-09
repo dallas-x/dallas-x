@@ -58,8 +58,12 @@
 
 ### Social
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dallascbaker)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/k1ddarkn3ss)
 
 ### Skills
 [![Hacker Rank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/k1ddarkn3ss)
 [![Hacker Earth](https://img.shields.io/badge/HackerEarth%20-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@k1ddarkn3ss)
 
+### Support
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+[![Buy me a Coffee](https://img.shields.io/badge/Buy-Me-A-Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.buymeacoffee.com/bzLSEvh)
