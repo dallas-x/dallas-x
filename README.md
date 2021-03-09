@@ -66,4 +66,4 @@
 
 ### Support
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)]()
-[![Buy me a Coffee](https://img.shields.io/badge/Buy-Me-A-Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.buymeacoffee.com/bzLSEvh)
+[![Buy me a Coffee](https://img.shields.io/badge/BuyMeACoffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.buymeacoffee.com/bzLSEvh)
