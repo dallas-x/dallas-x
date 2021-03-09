@@ -11,7 +11,8 @@
 - ![PerimeterX](https://www.perimeterx.com/favicons/favicon.ico) Ask me about Cyber Security || PerimeterX
 - ⚡ Fun fact: Harry Potter and I share the same Birthday!
 
-Have a business or project idea? Let's get ☕️!
+*Have a business or project idea? Let's get ☕️!*
+
 ---
 
 ## Tech Stack
