@@ -3,18 +3,14 @@
 **k1ddarkn3ss/k1ddarkn3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 ## Hi 👋, I am Dallas! 
-> I spend most of my day wearing multiple hats at PerimeterX and when im not there I am most likely researching, analyzing data, and writing code.
-> When im not working, I ❤️ 🥾 in the ⛰ , 🏂, and going to the 🏝!
-
-- 🔭 I’m currently working on a managment system for Poker games.
-- 🌱 I’m currently learning Security within devops.
-- 🚀 I’m looking to collaborate on developing a cyber security tool for threat intel researchers.
-- 🤔 I’m looking for help with research and threat intel.
+> I spend most of my day wearing multiple hats at PerimeterX. When I am not there, I am most likely researching, analyzing data, and writing code. When I am not > working, I ❤️ 🥾 in the ⛰ , 🏂, and going to the 🏝!
+- 🔭 I'm currently working on a management system for Poker games.
+- 🌱 I'm currently learning Security within DevOps.
+- 🚀 I'm looking to collaborate on developing a cybersecurity tool for threat intel researchers.
+- 🤔 I'm looking for help with research and threat intel.
 - ![PerimeterX](https://www.perimeterx.com/favicons/favicon.ico) Ask me about Cyber Security || PerimeterX
-- ⚡ Fun fact: I and Harry Potter share the same Birthday!
-
+- ⚡ Fun fact: Harry Potter and I share the same Birthday!
 *Have a business or project idea? Let's get ☕️!*
-
 ---
 
 ## Tech Stack
