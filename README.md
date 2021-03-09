@@ -56,6 +56,6 @@
 ![Made with love in California](https://madewithlove.now.sh/us?heart=true&template=for-the-badge&text=California)
 ![VisitorCount](https://profile-counter.glitch.me/k1ddarkn3ss/count.svg)
 
-[!(https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dallascbaker)
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dallascbaker)
 https://www.hackerearth.com/@k1ddarkn3ss
 https://www.hackerrank.com/k1ddarkn3ss
