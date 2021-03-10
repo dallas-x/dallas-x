@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <img src="https://github.com/k1ddarkn3ss/k1ddarkn3ss/raw/main/assets/Artboard%201.png" title="Home " width="100%">
 <!--
 **k1ddarkn3ss/k1ddarkn3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
@@ -39,9 +41,6 @@
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![sql light](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## Stats
 
