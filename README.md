@@ -8,7 +8,7 @@
 > I spend most of my day wearing multiple hats at PerimeterX. When I am not there, I am most likely researching, analyzing data, and writing code. When I am not working, I ❤️ 🥾 in the ⛰ , 🏂, and going to the 🏝!
 > 
 
-- 🔭 I'm currently working on a management system for Poker games.
+- 🔭 I'm currently working on a management system for [Poker games](https://github.com/k1ddarkn3ss/kd13_quarantine_pok3r).
 - 🌱 I'm currently learning Security within DevOps.
 - 🚀 I'm looking to collaborate on developing a cybersecurity tool for threat intel researchers.
 - 🤔 I'm looking for help with research and threat intel.
