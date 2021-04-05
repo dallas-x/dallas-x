@@ -52,7 +52,7 @@
 </a>
 
 ## [Dallas Baker](https://k1ddarkn3ss.dev/)
-![Made with love in Phoenix](https://madewithlove.now.sh/us?heart=true&template=for-the-badge&text=Phoenix, AZ)
+![Made with love in Phoenix](https://madewithlove.now.sh/us?heart=true&template=for-the-badge&text=Phoenix,%20AZ)
 [![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/k1ddarkn3ss)
 ![VisitorCount](https://profile-counter.glitch.me/k1ddarkn3ss/count.svg)
 
