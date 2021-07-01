@@ -5,7 +5,7 @@
 **k1ddarkn3ss/k1ddarkn3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 ## Hi 👋, I am Dallas! 
-> I spend most of my day wearing multiple hats at PerimeterX. I love learning new things When I am not there, I am most likely researching, analyzing data, and writing code. When I am not working, I ❤️ 🥾 in the ⛰ , 🏂, and going to the 🏝!
+> I spend most of my day wearing multiple hats at PerimeterX. I love learning, reading, solving puzzles, writing code, and most of all helping people. If im not in the office you can find me 🥾 in the ⛰ , 🏂, or at the 🏝!
 > 
 
 - 🔭 I'm currently working on general web development.
