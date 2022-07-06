@@ -45,11 +45,14 @@
 
 ### Enviroment
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Iterm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=whitee)
+![Pro Art](https://img.shields.io/badge/Pro%20Art-000000?style=for-the-badge&logo=asus&logoColor=c9a77f)
+![MX Master](https://img.shields.io/badge/mx%20master-000000?style=for-the-badge&logo=logitech&logoColor=00B8FC)\
+![Iterm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![gitkraken](https://img.shields.io/badge/GitKraken-black?style=for-the-badge&logo=GitKraken)\
-![Browser](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Browser](https://img.shields.io/badge/Firefox-black?style=for-the-badge&logo=Firefox-Browser)
+![Browser](https://img.shields.io/badge/Storybook-black?style=for-the-badge&logo=storybook)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)
 
 ### Cloud
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -78,6 +81,6 @@
 [![m1](https://img.shields.io/badge/BuyMeACoffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.buymeacoffee.com/bzLSEvh)
 
 
-![Made with love in Phoenix](https://madewithlove.now.sh/us?heart=true&template=for-the-badge&text=Phoenix,%20AZ)
+![Made with love in Studio City](https://madewithlove.now.sh/us?heart=true&template=for-the-badge&text=Studio%20City,%20CA)
 [![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/k1ddarkn3ss)
 ![VisitorCount](https://profile-counter.glitch.me/k1ddarkn3ss/count.svg)
