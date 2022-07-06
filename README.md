@@ -62,7 +62,7 @@
 ## Stats
 ![base](https://github-readme-streak-stats.herokuapp.com/?user=dallas-x&theme=dracula)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dallas-x&theme=dracula)
-![summary](https://github-readme-stats.vercel.app/api/wakatime?username=dallas-x&layout=compact&theme=dracula)
+![summary](https://github-readme-stats.vercel.app/api/wakatime?username=k1ddarkn3ss&layout=compact&theme=dracula)
 
 ## [Connect](https://k1ddarkn3ss.dev/)
 
