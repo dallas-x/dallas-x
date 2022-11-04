@@ -37,7 +37,7 @@
 ### Frameworks
 ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REACT](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)\
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)\
 ![Okta](https://img.shields.io/badge/Okta-007DC1?logo=okta&logoColor=fff&style=for-the-badge)
 ![babel](https://img.shields.io/badge/Babel-black?style=for-the-badge&logo=babel&logoColor=FFCA28)
 ![Helm Badge](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=for-the-badge)
