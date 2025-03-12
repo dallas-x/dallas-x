@@ -47,13 +47,13 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Pro Art](https://img.shields.io/badge/Pro%20Art-000000?style=for-the-badge&logo=asus&logoColor=c9a77f)
 ![MX Master](https://img.shields.io/badge/mx%20master-000000?style=for-the-badge&logo=logitech&logoColor=00B8FC)\
-![Iterm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![Warp](https://img.shields.io/badge/warp-000000?style=for-the-badge&logo=warp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![gitkraken](https://img.shields.io/badge/GitKraken-black?style=for-the-badge&logo=GitKraken)
 
 ### Cloud
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![digitalocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ### Databases
 ![Mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
