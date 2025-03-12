@@ -5,7 +5,7 @@
 **k1ddarkn3ss/k1ddarkn3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 ## Hi 👋, I am Dallas! 
-> I spend most of my day wearing multiple hats at Human Security. I love learning, reading, solving puzzles, writing code, and most of all helping people. If im not in the office you can find me 🥾 in the ⛰ , 🏂, or at the 🏝!
+> I spend most of my day building a datalake for SYF. I love learning, reading, solving puzzles, writing code, and most of all helping people. If im not in the office you can find me 🥾 in the ⛰ , 🏂, or helping someone purchase or sale their 🏠!
 > 
 
 - 🔭 I'm currently working on building a datalake using Cribl & Native AWS services.
