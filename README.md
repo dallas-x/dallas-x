@@ -8,13 +8,13 @@
 > I spend most of my day wearing multiple hats at Human Security. I love learning, reading, solving puzzles, writing code, and most of all helping people. If im not in the office you can find me 🥾 in the ⛰ , 🏂, or at the 🏝!
 > 
 
-- 🔭 I'm currently working on visualization tools for security teams.
-- 🌱 I'm currently learning AI fundamentals.
-- 🚀 I'm looking to collaborate on developing a new consumer product.
-- 🤔 I'm looking for help with product development.
-- 🤖 Ask me about Cyber Security || Human Security
-- 📚 I'm currently reading "The 10X Rule"
-- ⚡ Fun fact: Huge Harry Potter Nerd
+- 🔭 I'm currently working on building a datalake using Cribl & Native AWS services.
+- 🌱 I'm currently learning AI in practice via Harvard CS50AI.
+- 🚀 I'm looking to collaborate on building a cool app.
+- 🤔 I'm looking for help with blockchain.
+- 🤖 Ask me about Cyber Security || Cribl
+- 📚 I'm currently reading "The Culture Code"
+- ⚡ Fun fact: I am also a License Realtor in California
 
 ---
 
